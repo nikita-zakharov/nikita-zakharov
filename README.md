@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Welcome to my GitHub Page. My name is Nikita, I am frontend developer.
+### My favorite tools and technologies
+HTML & CSS, Javascript, Typescript, Vue, Nuxt, React, Tailwind and more.
 <!--
 **nikita-zakharov/nikita-zakharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
